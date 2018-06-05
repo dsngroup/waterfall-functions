@@ -1,0 +1,8 @@
+{
+  "name": "log-transformer",
+  "version": "0.1.0",
+  "description": "Flatten log transformer function.",
+  "main": "index.js",
+  "author": "Tzu-Chiao Yeh",
+  "license": "Apache-2.0"
+}
